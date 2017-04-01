@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("fd.png");
+}
+
+* {
+    box-sizing: border-box;
+}
+
+#presentation{
+    text-align: center;  
+    font-size: 30px;
+    color:#212424;
+    margin-left: 35%;
+    margin-right: 35%;
+	border-radius: 15%;
+	box-shadow: 6px 6px 5px #212424;
+}
+
+.couleur{
+    background: blue;
+}
+
